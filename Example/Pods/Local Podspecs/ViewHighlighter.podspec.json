@@ -1,0 +1,22 @@
+{
+  "name": "ViewHighlighter",
+  "version": "0.1.0",
+  "summary": "A short description of ViewHighlighter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/srv7/ViewHighlighter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "srv7": "liubo@cloudist.cc"
+  },
+  "source": {
+    "git": "https://github.com/srv7/ViewHighlighter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ViewHighlighter/Classes/**/*"
+}

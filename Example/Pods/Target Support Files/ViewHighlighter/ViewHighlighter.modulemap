@@ -1,0 +1,6 @@
+framework module ViewHighlighter {
+  umbrella header "ViewHighlighter-umbrella.h"
+
+  export *
+  module * { export * }
+}
